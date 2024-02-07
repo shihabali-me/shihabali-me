@@ -2,10 +2,10 @@
 #### Laravel & Vue JS Developer at Return Trip
 I work in the web infrastructure and applications area as a software engineer. Also have 3.5+ years of experience with organization and software development. Ability to think through a problem coupled with the confidence to make ideas heard. Proven ability to maintain, enhance company with the aim of improving operational functionality and with business requirements.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PHP/ LARAVEL / VUE JS / REACT / JS / HTML / CSS / Tailwind 
 
 - 🔭 I’m currently working on mid level full stack developer 
-- 🌱 I’m currently learning DSA,  JS, Vue, PHP, Laravel 
+- 🌱 I’m currently learning DSA, JS, Vue, PHP, Laravel 
 - 👯 I’m looking to collaborate on GitHub 
 
 
