@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Shihab Ali
 #### Laravel & Vue JS Developer at Return Trip
-I work in the web infrastructure and applications area as a software engineer. Also have 3.5+ years of experience with organization and software development. Ability to think through a problem coupled with the confidence to make ideas heard. Proven ability to maintain, enhance company with the aim of improving operational functionality and with business requirements.
+I work in the web infrastructure and applications area as a software engineer. Also have 4+ years of experience with organization and software development. Ability to think through a problem coupled with the confidence to make ideas heard. Proven ability to maintain, enhance company with the aim of improving operational functionality and with business requirements.
 
 Skills: PHP/ LARAVEL / VUE JS / REACT / JS / HTML / CSS / Tailwind 
 
